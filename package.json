@@ -4,7 +4,8 @@
   "description": "",
   "main": "server/server.ts",
   "scripts": {
-    "test": ".node_modules/.bin/ts-node ./server/server.ts"
+    "start": ".node_modules/.bin/ts-node ./server/server.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Kelvin Sand",
   "license": "ISC",
